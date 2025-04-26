@@ -71,7 +71,7 @@ paginate: true
 
 ---
 
-### 建立模型
+### <a href="https://cloud.google.com/bigquery/docs/reference/standard-sql/bigqueryml-syntax-create-kmeans" target="_blank">建立模型</a>
 
 ``` sql
 CREATE OR REPLACE MODEL `faa.airport_clusters`
@@ -118,7 +118,7 @@ Resources -> Manage added data source
 
 ---
 
-### 建立模型
+### <a href="https://cloud.google.com/bigquery/docs/reference/standard-sql/bigqueryml-syntax-create-remote-model" target="_blank">建立模型</a>
 
 ``` sql
 CREATE OR REPLACE MODEL `faa.gemini_model`
