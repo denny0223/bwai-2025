@@ -118,6 +118,11 @@ Resources -> Manage added data source
 
 ---
 
+### <a href="https://cloud.google.com/bigquery/docs/generate-text-tutorial-gemini#create_a_connection" target="_blank">建立連線</a>
+### <a href="https://cloud.google.com/bigquery/docs/generate-text-tutorial-gemini#grant-permissions" target="_blank">授權</a>
+
+---
+
 ### <a href="https://cloud.google.com/bigquery/docs/reference/standard-sql/bigqueryml-syntax-create-remote-model" target="_blank">建立模型</a>
 
 ``` sql
